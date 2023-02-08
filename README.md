@@ -4,9 +4,9 @@ These certificates demonstrate my commitment to my dream of becoming a competent
 
 It is often the free courses that are not highly valued by others that teach us the most valuable lessons.
 
-{% note %}
+## :warning: Warning
  **That My Personal Collection. So please ..**
-{% endnote %}
+
 
 ![](https://media.giphy.com/media/3oFzlZMqJnMNqWeczC/giphy.gif)
 
