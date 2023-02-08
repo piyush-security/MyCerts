@@ -11,6 +11,6 @@ It is often the free courses that are not highly valued by others that teach us 
 ## :warning: Warning
  **That My Personal Collection. So please ..**
 
-![](https://media.giphy.com/media/3oFzlZMqJnMNqWeczC/giphy.gif)
+<img src="https://media.giphy.com/media/3oFzlZMqJnMNqWeczC/giphy.gif" width="40" height="40" />
 
 - - -
